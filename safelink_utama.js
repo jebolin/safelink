@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="top-5-frugal-living-ideas-to-save-money.html"}
-if(x=="2"){xxx="latest-smart-ways-women-can-reduce-long.html"}
-if(x=="3"){xxx="the-smart-peoples-choice-paying-rent.html"}
-if(x=="4"){xxx="will-fintech-bring-revolution-within.html"}a_to_ve[i].href="https://blog.aladana.com/2019/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="5-tips-on-how-to-play-forex-for-success.html"}
+if(x=="2"){xxx="how-to-trade-so-as-not-to-lose.html"}
+if(x=="3"){xxx="easy-steps-to-perform-forex-technical.html"}
+if(x=="4"){xxx="tips-for-dealing-with-worst-conditions.html"}a_to_ve[i].href="https://blog.aladana.com/2019/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
